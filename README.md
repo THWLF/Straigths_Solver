@@ -9,7 +9,7 @@ the Expected format is
 
 Type of field (B or W) and then the number 0 for an empthy field
 
-B0W0W0W0
+B0W0W0W0\
 B1W5 and so on
 
 # Dependencies
